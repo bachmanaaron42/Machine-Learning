@@ -10,4 +10,4 @@ Below is a description of the analysis contained within each Notebook file:
 - **predict_bike_rentals_random_forest**: predict daily bike rentals using Random Forest regression
 - **sentiment_analysis_airline_tweets**: classify positive and negative sentiments for airline tweets using NLP and deep learning
 - **spam_predictions_using_naive_bayes**: classify text messages as spam or not using Naive Bayes
-- **word_cloud_topic_model_stack_overflow*: explore commonly used terms and topics discussed in Stack Overflow posts
+- **word_cloud_topic_model_stack_overflow**: explore commonly used terms and topics discussed in Stack Overflow posts
