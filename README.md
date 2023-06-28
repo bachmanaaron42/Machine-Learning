@@ -7,7 +7,7 @@ Below is a description of the analysis contained within each Notebook file:
 - **deep_learning_image_classifier**: classify images containing numbers using deep learning
 - **house_price_predictions_linear_regression**: predict house prices using Multiple Linear Regression
 - **jokes_recommendation_system**: recommend jokes to users based on other jokes they have interacted with
-- **predict_bike_rentals_random_forest**: predict daily bike rentals using Random Forest regression
+- **diabetes_classification**: predict if a patient has diabetes using tree-based models
 - **sentiment_analysis_airline_tweets**: classify positive and negative sentiments for airline tweets using NLP and deep learning
 - **spam_predictions_using_naive_bayes**: classify text messages as spam or not using Naive Bayes
 - **word_cloud_topic_model_stack_overflow**: explore commonly used terms and topics discussed in Stack Overflow posts
